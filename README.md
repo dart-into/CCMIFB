@@ -7,6 +7,8 @@ Code for CCMIFB
 Dataset
 -------
 
+The dataset used in this experiment comprises Chrysanthemums from various regions and categories. Samples of Chrysanthemum morifolium 'Hangbaiju' were collected from Zhoukou, Henan; Sheyang, Yancheng, Jiangsu; Xifeng, Guizhou; Shimen and Wuyi Baimuxiang, Tongxiang, Zhejiang; Julu Hebei and Suizhou, Hubei. Samples of Chrysanthemum morifolium 'Gongju' were obtained from Huangshan, Anhui, and Shangqiu, Henan. Other varieties included Chrysanthemum morifolium'Boju' from Bozhou, Anhui, Chrysanthemum morifolium 'Qiyueju' from Shexian, Anhui, Chrysanthemum morifolium 'Dabanju' and Chrysanthemum morifolium 'Jinsiju' from Huangshan, Anhui, Chrysanthemum morifolium 'Taoju' from Jiujiang, Jiangxi, Chrysanthemum morifolium 'Xiangju' from Xiangshui, Yancheng, Jiangsu, and Chrysanthemum morifolium 'Huaiju' and Chrysanthemum morifolium 'Qibaiju' from Jiaozuo, Henan. The dataset comprises 18 Chrysanthemum species, with approximately 100 images of each Chrysanthemum's front and back sides, resulting in a total of around 3600 images.
+
 Requirements
 -------
 * PyTorch=1.7.0
